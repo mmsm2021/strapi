@@ -1,6 +1,6 @@
-node_modules
-build
-.cache
+strapi/node_modules
+strapi/build
+strapi/.cache
 .github
 .gitignore
 docker-compose.yml
